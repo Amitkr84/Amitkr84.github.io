@@ -270,10 +270,10 @@ const About: React.FC = () => {
       gradient: 'from-purple-500 to-pink-500',
     },
     {
-      year: 'Now',
-      title: 'MCA at BBDU & Enterprise Deliveries',
+      year: 'Graduated',
+      title: 'MCA Graduate & Enterprise Deliveries',
       description:
-        'Completing MCA at Babu Banarasi Das University, architecting AI-native platforms (NEXORA) and multi-vendor systems (Apnora Mart), ready for high-impact roles.',
+        'Completed MCA at Babu Banarasi Das University, architecting AI-native platforms (NEXORA) and multi-vendor systems (Apnora Mart), ready for high-impact roles.',
       icon: <Target size={18} />,
       gradient: 'from-emerald-500 to-teal-500',
     },
@@ -606,9 +606,9 @@ const About: React.FC = () => {
                   </span>
                 </h3>
                 <p className="text-base md:text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-                  I'm a results-driven Python Full Stack Developer pursuing my{' '}
+                  I'm a results-driven Python Full Stack Developer holding an{' '}
                   <span className="font-semibold text-blue-600 dark:text-blue-400">
-                    MCA at Babu Banarasi Das University (BBDU)
+                    MCA from Babu Banarasi Das University (BBDU)
                   </span>{' '}
                   with practical industry experience as a Python Full Stack Developer Intern at{' '}
                   <span className="font-semibold text-purple-600 dark:text-purple-400">
